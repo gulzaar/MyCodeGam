@@ -1,0 +1,142 @@
+[{
+	"ContextName": "EID",
+	"TableName": "EID_AccessLog",
+	"TableAlias": "NewAccessLog",
+	"TableHierarchy": "Pune.Jasper",
+	"ComponentType": "All",
+	"CommentDetails": [{
+		"CommentKey": "Alias",
+		"Commentvalue": "Comment For Alias"
+	},
+	{
+		"CommentKey": "QueryClass",
+		"Commentvalue": "Comment For QueryClass"
+	},
+	{
+		"CommentKey": "CommandClass",
+		"Commentvalue": "Comment For CommandClass"
+	},
+	{
+		"CommentKey": "ResultClass",
+		"Commentvalue": "Comment For ResultClass"
+	},
+	{
+		"CommentKey": "QueryHandlerClass",
+		"Commentvalue": "Comment For QueryHandlerClass"
+	},
+	{
+		"CommentKey": "CommandHandlerClass",
+		"Commentvalue": "Comment For CommandHandlerClass"
+	},
+	{
+		"CommentKey": "RepositoryQContractClass",
+		"Commentvalue": "Comment For RepositoryQContractClass"
+	},
+	{
+		"CommentKey": "RepositoryQManagerClass",
+		"Commentvalue": "Comment For RepositoryQManagerClass"
+	},
+	{
+		"CommentKey": "GetAll",
+		"Commentvalue": "Comment For GetAll"
+	},
+	{
+		"CommentKey": "GetAllByPredicate",
+		"Commentvalue": "Comment For GetAllByPredicate"
+	},
+	{
+		"CommentKey": "GetAllByPrimaryKey",
+		"Commentvalue": "Comment For GetAllByPrimaryKey"
+	},
+	{
+		"CommentKey": "RepositoryHContractClass",
+		"Commentvalue": "Comment For RepositoryHContractClass"
+	},
+	{
+		"CommentKey": "RepositoryHManagerClass",
+		"Commentvalue": "Comment For RepositoryHManagerClass"
+	},
+	{
+		"CommentKey": "Insert",
+		"Commentvalue": "Comment For Insert"
+	},
+	{
+		"CommentKey": "Update",
+		"Commentvalue": "Comment For Update"
+	},
+	{
+		"CommentKey": "Delete",
+		"Commentvalue": "Comment For Delete"
+	}]
+},
+{
+	"ContextName": "EID",
+	"TableName": "EID_AccountLog",
+	"TableAlias": "NewAccountLog",
+	"TableHierarchy": "Pune.Jasper",
+	"CommentDetails": [{
+		"CommentKey": "Alias",
+		"Commentvalue": "Comment For Alias"
+	},
+	{
+		"CommentKey": "QueryClass",
+		"Commentvalue": "Comment For QueryClass"
+	},
+	{
+		"CommentKey": "CommandClass",
+		"Commentvalue": "Comment For CommandClass"
+	},
+	{
+		"CommentKey": "ResultClass",
+		"Commentvalue": "Comment For ResultClass"
+	},
+	{
+		"CommentKey": "QueryHandlerClass",
+		"Commentvalue": "Comment For QueryHandlerClass"
+	},
+	{
+		"CommentKey": "CommandHandlerClass",
+		"Commentvalue": "Comment For CommandHandlerClass"
+	},
+	{
+		"CommentKey": "RepositoryQContractClass",
+		"Commentvalue": "Comment For RepositoryQContractClass"
+	},
+	{
+		"CommentKey": "RepositoryQManagerClass",
+		"Commentvalue": "Comment For RepositoryQManagerClass"
+	},
+	{
+		"CommentKey": "GetAll",
+		"Commentvalue": "Comment For GetAll"
+	},
+	{
+		"CommentKey": "GetAllByPredicate",
+		"Commentvalue": "Comment For GetAllByPredicate"
+	},
+	{
+		"CommentKey": "GetAllByPrimaryKey",
+		"Commentvalue": "Comment For GetAllByPrimaryKey"
+	},
+	{
+		"CommentKey": "RepositoryHContractClass",
+		"Commentvalue": "Comment For RepositoryHContractClass"
+	},
+	{
+		"CommentKey": "RepositoryHManagerClass",
+		"Commentvalue": "Comment For RepositoryHManagerClass"
+	},
+	{
+		"CommentKey": "Insert",
+		"Commentvalue": "Comment For Insert"
+	},
+	{
+		"CommentKey": "Update",
+		"Commentvalue": "Comment For Update"
+	},
+	{
+		"CommentKey": "Delete",
+		"Commentvalue": "Comment For Delete"
+	}],
+	"ComponentType": "All"
+}]
